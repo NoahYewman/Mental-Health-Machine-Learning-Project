@@ -3,3 +3,9 @@
 A project which was looking at whether or not it is possible to accurately predict whether or not somebody within the Technology Industry has a mental illness.
 
 All results and methods can be found within the JupyterLabs notebook, and a full write up of the project can be found within the .pdf.
+
+Python libraries used:
+- Sci-Kit Learn
+- Pandas
+- MatPlotLib
+- Seaborn
